@@ -62,8 +62,7 @@ Should specify how renter will not be billed until pick-up (Example: At pickup, 
 Owner should have a reminder about when Renter is going to pickup, dropoff, etc
 
 There will be a mobile app that handles pickup/dropoff, and that’s going to be when payments are processed.
-# Updates
-	11/5/18
-As an account holder not logged in, I should be returned to whatever page I am on when I finish logging in.
-As a user not logged in, when attempting to request a rental I should be taken to a page where I need to log in or sign up, after which the rental request should resume.
-As a new user opening an account from the top nav bar “Sign Up” link, I should be navigated to my profile page after signing up for an account.
+# Updates 11/5/18
+* As an account holder not logged in, I should be returned to whatever page I am on when I finish logging in.
+* As a user not logged in, when attempting to request a rental I should be taken to a page where I need to log in or sign up, after which the rental request should resume.
+* As a new user opening an account from the top nav bar “Sign Up” link, I should be navigated to my profile page after signing up for an account.
