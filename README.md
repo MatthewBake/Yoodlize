@@ -42,26 +42,19 @@ User - refers to both renter and owner
 * As a new user opening an account from the top nav bar “Sign Up” link, I should be navigated to my profile page after signing up for an account.
 
 # Important Information
-Process
-Use “Improvement” or “New Feature” for feedback on design/user experience that isn’t an outright bug. Need to present defensible reasoning since we don’t have time/bandwidth for a two way discussion. Don’t be lazy.
-Screenshots on bugs are really appreciated, circle in red.
-If there isn’t a good id for an element, submit a bug like this
+# Process
+* Use “Improvement” or “New Feature” for feedback on design/user experience that isn’t an outright bug. Need to present defensible reasoning since we don’t have time/bandwidth for a two way discussion. Don’t be lazy.
+* Screenshots on bugs are really appreciated, circle in red.
+* If there isn’t a good id for an element, submit a bug like this
 Preface the bug “Needs ID:”
-Only one business partner is technical, know that reporting your bugs/suggestions.
-Product
-No formal plans right now for contested rentals (damaged goods, no returns, etc.)
-Messages are not hooked up until next week
-We will have somewhat of an api/testing environment next week as well
-This is a ported Airbnb clone, so some system generated text might be skewed that way, note those.
-Also, some systems haven’t been tested since the clone was purchased.
+*Only one business partner is technical, know that reporting your bugs/suggestions.
+# Product
+* No formal plans right now for contested rentals (damaged goods, no returns, etc.)
+* Messages are not hooked up until next week
+* We will have somewhat of an api/testing environment next week as well
+* This is a ported Airbnb clone, so some system generated text might be skewed that way, note those.
+* Also, some systems haven’t been tested since the clone was purchased.
 
-Comment your questions here.
-Should specify what platform and browser the application will work for.
-Should specify how renter will not be billed until pick-up (Example: At pickup, does the owner submit that renter has picked up item? And then renter is billed? Or does renter do that? Or both?) 
-“Owner can set payout instructions”. What would that mean? Also, payout instructions would have to make sure renter is not billed until after pickup. 
-Owner should have a reminder about when Renter is going to pickup, dropoff, etc
-
-There will be a mobile app that handles pickup/dropoff, and that’s going to be when payments are processed.
 # Updates 11/5/18
 * As an account holder not logged in, I should be returned to whatever page I am on when I finish logging in.
 * As a user not logged in, when attempting to request a rental I should be taken to a page where I need to log in or sign up, after which the rental request should resume.
