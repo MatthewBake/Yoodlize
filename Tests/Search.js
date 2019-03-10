@@ -16,7 +16,7 @@ module.exports = {
     // The user repeats steps 1-2 a few more times.
     
 YoodPage.pause(1000)
-YoodPage.waitForElementPresent('@SearchField')
+YoodPage.waitForElementVisable('@SearchField')
 YoodPage.click('@Login')
 .setValue('@User', "fake@fake.com")
 .setValue('@Pass', "fakefake")

@@ -5,9 +5,9 @@
 
   <testsuite name="Filters"
     errors="0" failures="1" hostname="" id="" package="Filters" skipped="0"
-    tests="1" time="155.5" timestamp="">
+    tests="1" time="52.95" timestamp="">
   
-    <testcase name="QO2MB-103 Search Filters" classname="Filters" time="155.5" assertions="19">
+    <testcase name="QO2MB-103 Search Filters" classname="Filters" time="52.95" assertions="72">
 
     
 
@@ -43,9 +43,120 @@
 
     
 
-      <failure message="Timed out while waiting for element &lt;#rebass-provider &gt; div &gt; div.Search-root-2gThI &gt; div &gt; div.Search-searchResultContainer-33ivj &gt; div:nth-child(1) &gt; div &gt; div.mb-l.sc-bdVaJa.iHZvIS &gt; div&gt; to be present for 5000 milliseconds. - expected [0;32m&#34;found&#34;[0m but got: [0;31m&#34;not found&#34;[0m">    at Object.QO2MB-103 Search Filters (C:\Users\Matt\Desktop\DevTest\yoodlize\tests\Filters.js:224:6)</failure>
+    
 
     
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Expected element &lt;Element [name=@Tag]&gt; text to contain: &#34;availability&#34; - expected [0;32m&#34;contain &#39;availability&#39;&#34;[0m but got: [0;31m&#34;min rating: 3 |&#34;[0m">    at DateSearch.dateInfo.forEach.date (C:\Users\Matt\Desktop\DevTest\yoodlize\Test_Assets\DateSearch.js:10:13)
+    at Array.forEach (&lt;anonymous&gt;)
+    at DateSearch (C:\Users\Matt\Desktop\DevTest\yoodlize\Test_Assets\DateSearch.js:2:10)
+    at Object.QO2MB-103 Search Filters (C:\Users\Matt\Desktop\DevTest\yoodlize\tests\Filters.js:36:9)</failure>
+
+    <failure message="    at DateSearch.dateInfo.forEach.date (C:\Users\Matt\Desktop\DevTest\yoodlize\Test_Assets\DateSearch.js:10:13)">    at Array.forEach (&lt;anonymous&gt;)
+    at DateSearch (C:\Users\Matt\Desktop\DevTest\yoodlize\Test_Assets\DateSearch.js:2:10)
+    at Object.QO2MB-103 Search Filters (C:\Users\Matt\Desktop\DevTest\yoodlize\tests\Filters.js:36:9)</failure>
     </testcase>
   
 

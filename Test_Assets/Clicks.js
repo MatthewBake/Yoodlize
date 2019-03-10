@@ -1,0 +1,17 @@
+module.exports = [
+    '@Clothing',
+    '@Home',
+    '@Electronics',
+    '@Toys',
+    '@Business',
+    '@Recreations',
+    '@Lawn',
+    '@Misc',
+    '@Sporting',
+    '@Outdoor',
+    '@Tools',
+    '@Party',
+    '@Venues',
+    '@Local',
+    '@Experiences',
+]
